@@ -17,8 +17,8 @@ Anviro is a lightweight **Flask-based AI API** that performs **sentiment analysi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Touseeq20/anviro.git
-cd anviro
+git clone https://github.com/Touseeq20/AI-Text-Sentiment-and-Summary-.git
+cd AI-Text-Sentiment-and-Summary-
 ```
 
 ### 2. Create a Virtual Environment
