@@ -1,4 +1,4 @@
-# 🧠 Anviro — AI Text Sentiment & Summary API
+# 🧠 Anviro AI Text Sentiment & Summary API
 
 Anviro is a lightweight **Flask-based AI API** that performs **sentiment analysis** and **text summarization** using Hugging Face Transformers and OpenRouter API.
 
